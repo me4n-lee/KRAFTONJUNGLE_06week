@@ -53,3 +53,5 @@
     - 단, random trace는 malloclab-jungle project와 다른 내용임
 2. 리뷰가 완료되면 'submit review' 버튼을 눌러 리뷰가 완료되었음을 알림
 3. 리뷰 받은 코드 주인은 해당 review에 대한 설문지 작성
+
+hi
